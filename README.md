@@ -1,4 +1,4 @@
-# playwright-demo-project
+cd # playwright-demo-project
 This is playwright demo practice project.
 <br>
-Author : Akshata Bandgale
+Author : Akshata (Playwright Practice)
