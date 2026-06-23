@@ -1,2 +1,3 @@
 # playwright-demo-project
-This is playwright demo project practice project.
+This is playwright demo practice project.
+Author : Akshata Bandgale
